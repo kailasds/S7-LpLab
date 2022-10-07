@@ -1,6 +1,5 @@
 #include<stdio.h>
 
-
 int main(){
 char str[100];
 printf("enter string");
@@ -26,3 +25,13 @@ else
 	printf("valid string");
 return 0;
 }
+
+
+/* OUTPUT
+
+enter string 0011
+valid string
+
+enter string1011
+invalid string
+*/

@@ -42,3 +42,15 @@ else
 	printf("invalid string");
 return 0;
 }
+
+
+
+/*OUTPUT
+Kailas
+
+enter string aaab
+valid string
+
+enter string aaabbbb
+invalid string
+*/
